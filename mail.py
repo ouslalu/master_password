@@ -1,8 +1,8 @@
 import yagmail
 
-receiver = "olalekanusmanhassan@gmail.com"
+receiver = "xyz@gmail.com"
 body = ["Microphone Check"]
-yag = yagmail.SMTP(user="lokousmanhas@gmail.com", password="Bolalo123#")
+yag = yagmail.SMTP(user="", password="")
 yag.send(
     to=receiver,
     subject="my password reset",
