@@ -1,2 +1,2 @@
 # master_password
-A code to manage all passwords using just a master
+A code to manage all passwords using just a master password
